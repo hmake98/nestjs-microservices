@@ -1,0 +1,7 @@
+FROM node:14.16.0-alpine
+RUN apk add --no-cache --virtual .build-deps alpine-sdk python3
+RUN mkdir -p /var/www/token
+WORKDIR /var/www/token
+ADD . /var/www/token
+RUN npm install
+CMD npm run prod

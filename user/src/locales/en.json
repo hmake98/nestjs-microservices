@@ -1,0 +1,11 @@
+{
+	"INVALID_PASSWORD": "password is invalid",
+	"INVALID_EMAIL": "provided email is invalid",
+	"INVALID_ACCESS": "invalid Access",
+	"INVALID_TOKEN": "invalid Token",
+	"USER_NOT_FOUND": "user not found",
+	"USER_EXISTS": "user already exists",
+	"ACTIVE_TOKEN_NOT_FOUND": "token not found",
+	"FORGOT_TOKEN_EXPIRED": "forgot token is expired",
+	"PASSWORD_CHANGED": "password changed"
+}
