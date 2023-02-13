@@ -1,4 +1,4 @@
-# Nest Microservices with RabbitMQ (Basic Version) [THIS REPOSITORY IS SHIFTED TO (BACKENDWORKS ORG)[https://github.com/BackendWorks/nestjs-microservices]. REFER TO THAT REPOSITORY ISNTEAD OF USING THIS ONE]
+# Nest Microservices with RabbitMQ (Basic Version) [THIS REPOSITORY IS SHIFTED TO (BACKENDWORKS ORG)[https://github.com/BackendWorks/nestjs-microservices]. REFER TO THAT REPOSITORY INSTEAD OF USING THIS ONE]
 Fully managed microservices starter using NestJS, Kong API gateway, RabbitMQ, Redis Queues, Firebase Cloud Notifications.
 
 ![Microservice drawio (2)](https://user-images.githubusercontent.com/23061515/160799926-6ea731ae-ff63-4044-9452-b58f3cbe99a3.png)
